@@ -215,5 +215,3 @@ Widerstand = 57.5 Ohm
 ```
 
 ---
-
-[◀️ Zurück zur Aufgabenübersicht](#)

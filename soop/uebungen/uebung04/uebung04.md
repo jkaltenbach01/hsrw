@@ -161,5 +161,3 @@ Pi = 3.1416426510898874
 > **Hinweis:** Beachten Sie, dass bei sehr kleinem $\epsilon$ (etwa ab $< 10^{-6}$) die Laufzeit entsprechend der Rechenleistung Ihres Computers durchaus im Minuten- oder gar Stundenbereich liegen kann. Lassen Sie sich ggf. je Schleifendurchlauf den aktuellen Näherungswert für $\pi$ ausgeben, um das Programm zu beobachten.
 
 ---
-
-[◀️ Zurück zur Aufgabenübersicht](#)

@@ -126,5 +126,3 @@ Person   Name             Geburtsdatum   Geschlecht   Guthaben
 ```
 
 ---
-
-[◀️ Zurück zur Aufgabenübersicht](#)

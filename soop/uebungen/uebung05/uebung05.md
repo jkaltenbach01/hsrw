@@ -48,5 +48,4 @@ Der geometrische Abstand berechnet sich nach der Formel:
 $$
 d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 $$
-
-[◀️ Zurück zur Aufgabenübersicht](#)
+ ---

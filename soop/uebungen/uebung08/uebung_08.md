@@ -60,9 +60,4 @@ Implementieren Sie eine rekursive Methode `public static String reverse(String s
 
 * **Beispiel:** Der Aufruf `reverse("abcd")` liefert `"dcba"` zurück.
 
-## Musterlösung
-
-<details>
-<summary>Lösung anzeigen</summary>
-
-</details>
+---

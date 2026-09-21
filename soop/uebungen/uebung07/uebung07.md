@@ -112,3 +112,5 @@ Schreiben Sie eine Methode `public static long endKapLong(long k0, double z, int
 ### Aufgabe 8: Weizenkornlegende
 
 Schreiben Sie eine Methode `public static void schachbrett(int n)`, welche ein "Schachbrett" der Größe $n \times n$ als `double[][] schachbrett` anlegt. Weisen Sie dem ersten Feld des Schachbretts den Wert eins, dem zweiten den Wert zwei, dem dritten den Wert vier, dem vierten den Wert acht usw. zu. Stellen Sie die entstandene Datenstruktur sinnvoll auf der Konsole dar. Die Zahlen werden ggfs. sehr groß, so dass Rundungsfehler schon bei $n = 8$ zu erwarten sind.
+
+---

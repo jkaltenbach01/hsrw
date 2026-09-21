@@ -68,3 +68,5 @@ Implementieren Sie eine Klasse `Szene`, welche eine Szene aus verschiedenen Kör
 * Methode `public String toString()`, zeigt alle in der Szene enthaltenen Körper an. Die sichtbaren Körper sind durch den Präfix `sichtbar:` gekennzeichnet.
 
 Implementieren Sie eine Klasse `SzeneTest`, mit der Sie Ihre Klasse testen. Denken Sie daran, auch `MultiKoerper` einzufügen und zwischenzeitlich die Blickrichtung zu ändern.
+
+---

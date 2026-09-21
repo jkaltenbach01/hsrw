@@ -61,3 +61,5 @@ Kugeln lassen sich im Rahmen dieser Übung nicht sinnvoll mit Kanten beschreiben
 ### Aufgabe 6: Sichtbarkeitsprüfung in der Klasse `Szene`
 
 * Ändern Sie die Klasse `Szene` so, dass ein Körper (oder zusammengesetzter Körper) nur dann als sichtbar bewertet wird, wenn alle seine Kanten vollständig sichtbar sind.
+
+---

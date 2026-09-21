@@ -225,7 +225,3 @@ public class Hex2DecimalConversion {
 * Ändern Sie die Methode so ab, dass sie eine `NumberFormatException` wirft, sobald ein Zeichen im Eingabestring keine gültige Hexadezimalziffer (`0-9`, `A-F` bzw. `a-f`) darstellt.
 
 ---
-
-## Musterlösung
-
-*(Hier können die Musterlösungen oder Lösungshinweise eingetragen werden.)*

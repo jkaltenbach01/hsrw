@@ -98,3 +98,5 @@ Weitere Komponenten der Klasse `Wuerfel`:
 * Ansonsten liefert sie den Abstand zwischen den Koordinaten dieses `Wuerfel` und des übergebenen `Koerper`.
 
 Implementieren Sie eine Klasse `WuerfelTest`, mit der Sie Ihre Klasse testen.
+
+---
