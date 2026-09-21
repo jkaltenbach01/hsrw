@@ -57,7 +57,7 @@ Implementieren Sie eine Klasse `Szene`, welche eine Szene aus verschiedenen Kör
   *Hinweis:* Da `MultiKoerper` von `Koerper` abgeleitet ist, können auch zusammengesetzte Körper in der Szene liegen.
 * Privates Attribut `blickrichtung` vom Typ `Punkt`. Dieses Attribut stellt einen Ortsvektor vom Ursprung in Richtung des angegebenen Punktes dar und repräsentiert die Blickrichtung des Betrachters. Recherchieren Sie ggf., was ein Ortsvektor ist. Das Auge des Betrachters ist also immer im Ursprung und hat ein kegelförmiges Sichtfeld von $45^\circ$:
 
-![Kegelförmiges Sichtfeld](blick.svg)
+![Kegelförmiges Sichtfeld](blick.jpg)
 
 * Konstruktor mit drei Parametern: für die x-, y- und z-Werte der Blickrichtung.
 * Parameterloser Konstruktor, der die Blickrichtung auf $(0, 0, 1)$ setzt.
