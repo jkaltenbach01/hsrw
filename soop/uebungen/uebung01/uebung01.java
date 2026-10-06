@@ -22,7 +22,7 @@ public class uebung01 {
         int x = 13;
         int z = 0;
 
-        while (x != 0) {
+        while (x != 1) {
             if (x % 2 == 0) {
                 x = x/2;
             }
