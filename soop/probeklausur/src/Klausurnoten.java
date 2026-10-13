@@ -15,6 +15,8 @@ public class Klausurnoten {
 
 	public static int berechneNote(int punkte) {
 		// Lösung hier
+
+		return 0;
 	}
 
 	// Verwenden Sie die Methode main für Ihre Tests, fügen

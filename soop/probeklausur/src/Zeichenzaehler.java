@@ -13,6 +13,8 @@ public class Zeichenzaehler {
 
 	public static int zaehleZeichen(String s, char c) {
 		// Lösung hier
+
+		return 0;
 	}
 
 	// Verwenden Sie die Methode main für Ihre Tests, fügen Sie ggf.
